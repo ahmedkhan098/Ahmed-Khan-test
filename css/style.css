@@ -137,6 +137,7 @@ nav {
     .sec1-cover {
         max-width: 300px;
         text-align: center;
+        margin: 0 auto;
     }
 
     .sec1-cover img {
@@ -169,6 +170,7 @@ nav {
 
     .pasta img {
         width: 100%;
+        margin: 0 auto;
     }
 }
 
@@ -207,17 +209,6 @@ nav {
     .sec1-btn {
         padding: 6px 12px;
         font-size: 12px;
-    }
-
-    .pasta {
-        display: inline-block;
-        width: 80%;
-        overflow: auto;
-    }
-
-    .pasta img {
-        overflow: auto;
-        max-width: 80%;
     }
 
 }
